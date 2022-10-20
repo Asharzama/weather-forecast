@@ -1,0 +1,15 @@
+.App{
+  height: 100vh;
+}
+
+@media (max-width: 684px){
+  *{
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 610px){
+  .Navbar h1{
+    display: none;
+  }
+}
